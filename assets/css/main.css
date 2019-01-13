@@ -106,7 +106,7 @@ a {
 	}
 }
 .mobilehero {
-	background: url({{ site.mobile }});
+	background: url("{{site.mobile}}");
 	height: 100%;
 	margin: 0;
 	padding: 20px;
@@ -161,7 +161,7 @@ a {
 	}
 
 	.desktop {
-		background-image: url("{{ site.desktop }}");
+		background-image: url("{{site.desktop}}");
 		height: 100vh;
 		width: auto;
 		background-position: {{ site.desktopBackgroundPosition }} ;
