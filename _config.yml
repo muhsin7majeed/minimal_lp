@@ -6,7 +6,7 @@ favicon: "assets/favicon.ico" # visit https://favicon.io/favicon-generator/ to g
 iconType: "image/ico"
 
 baseurl: "/minimal_lp" # the subpath of your site, e.g. /blog
-url: "https://muhsin7majeed.github.io/minimal_lp/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://muhsin7majeed.github.io/minimal_lp" # the base hostname & protocol for your site, e.g. http://example.com
 ###############
 
 
@@ -21,7 +21,7 @@ mobileNavColor: "#51b7ff"
 desktop: "/assets/avatar.jpg"
 desktopBackgroundPosition: center
 
-mobile: "assets/avatar.jpg"
+mobile: "/assets/avatar.jpg"
 mobileBackgroundPosition: center
 ###################
 
