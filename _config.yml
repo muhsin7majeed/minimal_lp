@@ -18,10 +18,10 @@ mobileNavColor: "#51b7ff"
 
 
 # Background Images // Use wide image for desktop //
-desktop: "minimal_lp/assets/avatar.jpg"
+desktop: "assets/avatar.jpg"
 desktopBackgroundPosition: center
 
-mobile: "minimal_lp/assets/avatar.jpg"
+mobile: "assets/avatar.jpg"
 mobileBackgroundPosition: center
 ###################
 
