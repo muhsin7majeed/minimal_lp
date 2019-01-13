@@ -106,7 +106,7 @@ a {
 	}
 }
 .mobilehero {
-	background: url("{{ site.mobile }}");
+	background: url({{ site.mobile }});
 	height: 100%;
 	margin: 0;
 	padding: 20px;
