@@ -1,0 +1,74 @@
+
+# Site settings
+title: MyBlog
+
+favicon: "assets/favicon.ico" # visit https://favicon.io/favicon-generator/ to generate quick browser.
+iconType: "image/ico"
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+###############
+
+
+# Styling
+fontColor: "#ffffff"
+accentColor: "#51b7ff" #change the color of the header files.
+mobileNavColor: "#51b7ff"
+#########
+
+
+# Background Images // Use wide image for desktop //
+desktop: "/assets/avatar.jpg"
+desktopBackgroundPosition: center
+
+mobile: "/assets/avatar.jpg"
+mobileBackgroundPosition: center
+###################
+
+
+# user details
+blogName: MYBLOG
+userName: Don Joe
+userDescription: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut molestie massa sed convallis aliquam. Sed eu nulla mauris.
+##############
+
+
+# Navigation Items & Links & Mobile Nav icons
+nav1: About
+nav1Link: "#"
+mobNav1Icon: <i class="fas fa-user"></i>
+
+nav2: Blog
+nav2Link: "#"
+mobNav2Icon: <i class="fas fa-blog"></i>
+
+nav3: Travel
+nav3Link: "#"
+mobNav3Icon: <i class="fas fa-plane"></i>
+##################
+
+
+# Social Icons // goto fontawesome.com and select icon then copy and paste (<i class="fab fa-facebook">) in icon.
+# Enter respective links in iconLink.
+iconBgColor: white 
+iconColor: "#303030"
+
+icon1: <i class="fab fa-facebook"></i>
+icon1Link: "#"
+
+icon2: <i class="fab fa-twitter"></i>
+icon2Link: "#"
+
+icon3: <i class="fab fa-instagram"></i>
+icon3Link: "#"
+
+icon4: <i class="fab fa-github"></i>
+icon4Link: "#"
+##############
+
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+################
