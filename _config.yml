@@ -21,7 +21,7 @@ mobileNavColor: "#51b7ff"
 desktop: "*/avatar.jpg"
 desktopBackgroundPosition: center
 
-mobile: "*/avatar.jpg"
+mobile: "avatar.jpg"
 mobileBackgroundPosition: center
 ###################
 
