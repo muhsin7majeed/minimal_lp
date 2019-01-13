@@ -5,7 +5,7 @@ title: MyBlog
 favicon: "assets/favicon.ico" # visit https://favicon.io/favicon-generator/ to generate quick browser.
 iconType: "image/ico"
 
-baseurl: "/minimal_lp/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 ###############
 
@@ -18,7 +18,7 @@ mobileNavColor: "#51b7ff"
 
 
 # Background Images // Use wide image for desktop //
-desktop: "assets/avatar.jpg"
+desktop: "/assets/avatar.jpg"
 desktopBackgroundPosition: center
 
 mobile: "assets/avatar.jpg"
