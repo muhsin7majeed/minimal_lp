@@ -18,10 +18,10 @@ mobileNavColor: "#51b7ff"
 
 
 # Background Images // Use wide image for desktop //
-desktop: "assets/avatar.jpg"
+desktop: "gh-pages/assets/avatar.jpg"
 desktopBackgroundPosition: center
 
-mobile: "assets/avatar.jpg"
+mobile: "gh-pages/assets/avatar.jpg"
 mobileBackgroundPosition: center
 ###################
 
